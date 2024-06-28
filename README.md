@@ -9,15 +9,45 @@ Features
 
 
 Avg Sales Amount: Displays the average sales amount.
+
+
+
 Total Sales Amount: Shows the total sales amount in millions.
+
+
+
 Total Orders: Indicates the total number of orders.
+
+
+
 Total Revenue: Represents the total revenue in millions.
+
+
+
 Product Count: Displays the total count of products.
+
+
+
 Avg Discount: Shows the average discount percentage.
+
+
+
 Sales Trends: Monthly and yearly sales trends visualized using bar charts.
+
+
+
 Top Sales by City: Highlights the top 5 cities by sales.
+
+
+
 Sales by Category: Pie chart showing the distribution of sales across different categories.
+
+
+
+
 Brand Discount Percent: Visualizes the discount percentage for different brands.
+
+
 
 
 
